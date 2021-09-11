@@ -1296,11 +1296,18 @@ button:focus {
   margin-bottom: 5px;
   font-size: 18px;
   color: #263238;
+  text-align: right
 }
 
 .single-team .team-details p {
   font-size: 14px;
   margin-bottom: 0px;
+  text-align: right
+}
+.single-team .team-details h5 {
+  font-size: 14px;
+  margin-bottom: 0px;
+  text-align: right
 }
 
 .single-team .social-list {
